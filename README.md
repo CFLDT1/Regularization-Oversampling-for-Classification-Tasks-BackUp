@@ -27,11 +27,11 @@ If you re-use this work, please cite:
 
 ```
 @article{van2023regularization,
-  title={Cost-Sensitive Learning Under Constrained Resources},
+  title={Regularization oversampling for classification tasks: To exploit what you do not know},
   author={Van der Schraelen, Lennert and Stouthuysen, Kristof and Broucke, Seppe Vanden and Verdonck, Tim},
-  journal={ },
-  year={ },
-  publisher={ }
+  journal={Information Sciences},
+  year={2023},
+  publisher={Elsevier}
 }
 
 All content in this repository is licensed under the MIT license.
